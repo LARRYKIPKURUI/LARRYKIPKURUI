@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
  Full-Stack Developer | AWS Cloud Enthusiast 
 
