@@ -27,7 +27,7 @@ As a full-stack developer with a strong foundation in web development, I’m cur
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LARRYKIPKURUI&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
