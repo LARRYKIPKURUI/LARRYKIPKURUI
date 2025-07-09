@@ -1,6 +1,6 @@
 # 💫 About Me
 
- Full-Stack Developer | AWS Cloud Enthusiast 
+ Full-Stack Developer |  AWS Cloud Enthusiast 
 
 As a full-stack developer with a strong foundation in web development, I’m currently transitioning my skillset to modern technologies ⚙️ Flask and Django for backend development, ⚛️ React for the frontend, and 🎨 Bootstrap for responsive styling. I’m passionate about building robust, scalable systems and especially enjoy working on the backend.
 
