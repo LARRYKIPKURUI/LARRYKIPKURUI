@@ -60,27 +60,27 @@ As an **AWS Certified Cloud Practitioner**, I am actively bridging the gap betwe
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Larry's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LARRYKIPKURUI&theme=gruvbox&hide_border=true" height="180" alt="Larry's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&v=1" height="180" alt="Larry's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LARRYKIPKURUI&theme=gruvbox&hide_border=true&v=1" height="180" alt="Larry's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact&v=1" height="180" alt="Top Languages" />
 </p>
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LARRYKIPKURUI&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LARRYKIPKURUI&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4&v=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&v=1)
 
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LARRYKIPKURUI&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=LARRYKIPKURUI&icon=0&color=0&v=1" alt="Visitor Count" />
   </a>
 </p>
