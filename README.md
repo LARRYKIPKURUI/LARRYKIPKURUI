@@ -57,16 +57,15 @@ As an **AWS Certified Cloud Practitioner**, I am actively bridging the gap betwe
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
-
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="Larry's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LARRYKIPKURUI&theme=gruvbox&hide_border=true" height="180em" alt="Larry's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Larry's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LARRYKIPKURUI&theme=gruvbox&hide_border=true" height="180" alt="Larry's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LARRYKIPKURUI&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 ### 🏆 Trophies
