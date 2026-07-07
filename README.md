@@ -14,7 +14,7 @@
  
  🔭 I’m currently transitioning to **Flask, Django, and React**
  
- 🌱 I’m currently learning deeper into **AWS Cloud Infrastructure**
+ 🌱 I’m currently learning deeper into **Advanced Backend Development and Devops**
 
 💬 Ask me about **Python, React, AWS... or anything [here](https://github.com/LARRYKIPKURUI/LARRYKIPKURUI/issues)**
 
