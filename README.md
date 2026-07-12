@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning deeper into **Advanced Backend Development and Devops**
 
-💬 Ask me about **Python, React, AWS... or anything [here](https://github.com/LARRYKIPKURUI/LARRYKIPKURUI/issues)**
+💬 Ask me about **Python, React, AWS or anything [here](https://github.com/LARRYKIPKURUI/LARRYKIPKURUI/issues)**
 
 ⚡ Fun fact: **I'm an AWS Certified Cloud Practitioner!**
 
