@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently transitioning to **Flask, Django, and React**
+ 🔭 I’m currently transitioning to **Laravel, DevOps, and React Native/Expo**
  
  🌱 I’m currently learning deeper into **Advanced Backend Development and Devops**
 
